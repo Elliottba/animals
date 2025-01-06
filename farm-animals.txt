@@ -2,3 +2,6 @@ cow
 pig
 chicken
 horse
+Donkey
+Geese
+Sheep
